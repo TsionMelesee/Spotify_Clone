@@ -36,36 +36,4 @@ Tailwind CSS: For styling.
 
 Spotify Web API: For fetching album and track data.
 
-Getting Started
 
-Prerequisites
-
-Node.js and npm installed.
-
-Spotify Developer Account.
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/spotify-clone.git
-cd spotify-clone
-
-Install dependencies:
-
-npm install
-
-Set up environment variables:
-Create a .env file in the root directory with your Spotify API credentials:
-
-REACT_APP_SPOTIFY_CLIENT_ID=your_client_id
-REACT_APP_SPOTIFY_CLIENT_SECRET=your_client_secret
-
-Start the development server:
-
-npm run dev
-
-Open the app in your browser:
-Navigate to http://localhost:5173 (if using Vite).
-
-Folder Structure
